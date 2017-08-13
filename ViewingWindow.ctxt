@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=incData
+comment0.target=ViewingWindow(DataObject[][])
+comment0.text=\r\n\ This\ constructure\ sets\ the\ JPane\ do\ display\ all\ of\ the\ items\ of\ the\ ViewingWindow.\r\n\ \r\n\ @param\ incData\ A\ 2D\ DataObject\ array\ arranged\ with\ the\ first\ array\ representing\ the\ players\ and\ the\ second\r\n\ array\ representing\ the\ rounds.\ \ The\ DataObjects\ do\ not\ have\ to\ be\ full.\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ This\ overrides\ the\ paint()\ method\ to\ draw\ the\ image\ in\ the\ DataObject,\ and\ to\ display\ the\ word\ and\ guess\r\n\ on\ the\ screen.\r\n
+comment2.params=actionCommand
+comment2.target=void\ cycle(java.lang.String)
+comment2.text=\r\nThis\ window\ does\ not\ include\ the\ Previous\ and\ Next\ buttons\ required\ for\ operation.\ \ They\ must\ be\ placed\r\non\ the\ frame,\ not\ the\ JPanel.\ Calling\ this\ method\ with\ "next"\ or\ "previous"\ will\ act\ as\ an\ actionListener,\r\nand\ perform\ the\ respective\ tasks.\r\n@param\ actionCommand\ "next"\ or\ "previous"\ to\ perform\ respective\ tasks.\r\n
+comment3.params=
+comment3.target=java.awt.Dimension\ getPreferredSize()
+comment3.text=\r\n\ Sets\ the\ prefered\ size\ of\ the\ panel\ and\ its\ components\r\n
+numComments=4

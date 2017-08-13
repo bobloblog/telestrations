@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=GuessingWindow(MyLinkedList)
+comment0.text=\r\n\ This\ constructer\ creates\ a\ GuessingWindow\ using\ the\ default\ instructions.\r\n\ @param\ image\ A\ MyLinkedList\ of\ tools\ that\ creates\ the\ image.\r\n
+comment1.params=image\ instructions
+comment1.target=GuessingWindow(MyLinkedList,\ java.lang.String)
+comment1.text=\r\n\ This\ constructer\ creates\ a\ GuessingWindow\ using\ custom\ instructions.\r\n\ @param\ image\ A\ MyLinkedList\ of\ tools\ that\ creates\ the\ image.\r\n\ @param\ instructions\ A\ String\ of\ instructions\ to\ be\ displayed\ at\ the\ top\ of\ the\ page.\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ This\ overrides\ the\ paint()\ method\ to\ draw\ the\ image\ in\ the\ MyLinkedList\ and\ to\ create\ the\ text\ boxes.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getGuess()
+comment3.text=\r\n\ Returns\ the\ guess\ that\ the\ user\ made.\r\n\ @return\ A\ String\ with\ the\ guess.\r\n
+comment4.params=
+comment4.target=java.awt.Dimension\ getPreferredSize()
+comment4.text=\r\n\ Sets\ the\ prefered\ size\ of\ the\ panel\ and\ its\ components.\r\n
+comment5.params=e
+comment5.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment5.text=\r\n\ An\ EventListener\ for\ the\ text\ boxes.\r\n\ @param\ e\ A\ DocumentEvent,\r\n
+comment6.params=e
+comment6.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment6.text=\r\n\ An\ EventListener\ for\ the\ text\ boxes.\r\n\ @param\ e\ A\ DocumentEvent,\r\n
+comment7.params=e
+comment7.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment7.text=\r\n\ An\ EventListener\ for\ the\ text\ boxes.\r\n\ @param\ e\ A\ DocumentEvent,\r\n
+numComments=8

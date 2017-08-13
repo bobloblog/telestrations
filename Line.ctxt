@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=beginX\ beginY\ endX\ endY
+comment0.target=Line(int,\ int,\ int,\ int)
+comment0.text=\r\n\ The\ constructor\ for\ the\ line\ that\ takes\ the\ endpoints\ as\ parameters.\r\n\ @param\ beginX\ The\ x\ value\ of\ the\ first\ endpoint.\r\n\ @param\ beginY\ The\ y\ value\ of\ the\ first\ endpoint.\r\n\ @param\ endX\ The\ x\ value\ of\ the\ second\ endpoint.\r\n\ @param\ endY\ The\ y\ value\ of\ the\ second\ endpoint.\r\n
+comment1.params=g
+comment1.target=void\ paintObject(java.awt.Graphics)
+comment1.text=\r\n\ This\ method\ MUST\ be\ called\ before\ the\ line\ is\ actually\ drawn\ (call\ within\ paint()\ method).\r\n\ @param\ g\ A\ Graphics\ component.\r\n
+numComments=2

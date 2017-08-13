@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=obj
+comment0.target=Node(java.lang.Object)
+comment0.text=\r\n\ The\ constructor\ for\ the\ Node.\r\n\ \r\n\ @param\ The\ data\ for\ the\ node.\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getData()
+comment1.text=\r\n\ Gets\ the\ data\ stored\ in\ the\ node.\r\n\ \r\n\ @return\ Retrusn\ the\ data.\r\n
+comment2.params=obj
+comment2.target=void\ setData(java.lang.Object)
+comment2.text=\r\n\ Sets\ the\ data\ of\ the\ node.\r\n\ \r\n\ @param\ The\ data\ for\ the\ node.\r\n
+comment3.params=
+comment3.target=Node\ getNext()
+comment3.text=\r\n\ Gets\ the\ next\ node.\r\n\ \r\n\ @return\ The\ next\ node.\r\n
+comment4.params=node
+comment4.target=void\ setNext(Node)
+comment4.text=\r\n\ Sets\ the\ next\ node\ that\ this\ node\ is\ looking\ at.\r\n\ \r\n\ @param\ The\ next\ node.\r\n
+numComments=5

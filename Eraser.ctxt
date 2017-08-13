@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Eraser(int,\ int)
+comment0.text=\r\n\ This\ constructer\ sets\ the\ x\ and\ y\ values\ of\ the\ eraser.\r\n
+comment1.params=width
+comment1.target=void\ changewidth(int)
+comment1.text=\r\n\ This\ method\ allows\ the\ width\ of\ the\ eraser\ to\ be\ altered.\r\n\ @param\ width\ The\ new\ width.\r\n
+comment2.params=g
+comment2.target=void\ paintObject(java.awt.Graphics)
+comment2.text=\r\n\ This\ method\ MUST\ be\ called\ before\ the\ eraser\ is\ actually\ drawn\ (call\ within\ paint()\ method).\r\n\ @Param\ g\ A\ Graphics\ component.\r\n
+numComments=3
